@@ -1,4 +1,8 @@
-﻿PDFSharp.Extensions
+This is a fork of the PDFSharp.Extensions, ported to .net standard.
+
+Original Readme:
+
+PDFSharp.Extensions
 =========
 
 The following are extension methods for PDFSharp to support and simplify some common 
